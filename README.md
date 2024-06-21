@@ -1,5 +1,3 @@
-![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)
-
 # 💫 About Me:
 Enthusiastic coder transforming ideas into reality, one keystroke at a time.<br><br>🌍 Let's join forces and innovate together on groundbreaking projects! 🚀<br><br>📫 Let's Connect<br>I'm always eager to collaborate on exciting projects and open-source contributions. <br>Feel free to reach out to me via LinkedIn or check out my latest work here on GitHub.<br>
 
